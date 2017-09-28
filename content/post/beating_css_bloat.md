@@ -66,7 +66,7 @@ Comments are important and you should not remove any comments that will help you
 
 There are many tools that will help you to lower your CSS file significantly. Most are based on [CSS Tidy][1], an open source CSS optimiser. This is a great tool for cleaning up your CSS files and will often result in savings of up to 25%. 
 
-If you don't want know how to install CSS Tidy there are a number of online variants:
+If you don't want/know how to install CSS Tidy there are a number of online variants:
 
 *   [CSS Optimiser][2]
 *   [CSS Cascading Style Sheet Optimiser][3]
